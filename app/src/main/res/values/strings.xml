@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerApp</string>
+    <string name="text_recycler_default">vaccine</string>
+</resources>
